@@ -45,9 +45,9 @@
                 android:layout_margin="5dp"
                 android:gravity="center_vertical"
                 android:text="@string/_325_328_0176"
-                android:visibility="visible"
+                android:visibility="gone"
                 app:drawableEndCompat="@drawable/ic_baseline_call_24"
-                tools:visibility="gone" />
+                />
 
             <View
                 android:layout_width="match_parent"
