@@ -14,7 +14,7 @@ android {
     buildToolsVersion '30.0.3'
 
     defaultConfig {
-        applicationId "com.journals.ijpcbs"
+        applicationId "com.journals.johr"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
